@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+    color: rgb(255, 0, 85);
+    font-size: 80px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(32, 9, 9);
+    border-radius: 10px;
+}
+
+
+h2{
+    color:rgb(192, 55, 55);
+    background-color: rgb(5, 14, 5);
+    font-size: 40px;
+    border-radius: 10px;
+
+}
+  
+P{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+    text-align: justify;
+}
+
+
+img{
+  
+    width: 220px; 
+    display:flex;
+    
+}
+
+
+a{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+    box-shadow: 10px 10px grey;
+  color: red;
+  background-color: rgb(42, 151, 165);
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 5px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  margin: 30px;
+}
+
+div{
+    background-color: rgb(117, 160, 145);
+    margin-bottom: 20px;
+    width: 95%;
+    
+}
+
+#grupo{
+    
+    padding-left: 5px;
+    padding-right: 10px;
+
+}
+
+#bisbal{
+    display: flex;
+    padding: 5px;
+    background-color: burlywood;
+    margin:auto;
+
+}
+#rema{
+    display: flex;
+    padding: 5px;
+    background-color: yellowgreen;
+    margin:auto;
+
+}
+#madonna{
+    display: flex;
+    padding: 5px;
+    background-color: green;
+    margin:auto;
+
+}
